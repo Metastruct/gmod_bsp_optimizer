@@ -1,2 +1,5 @@
-# reslister
-`Usage: reslister [--format=bspzip] "c:\mymap\map.vmf" "c:\mymap\resources" "c:\mymap\reslist.txt"`
+# gmod_bsp_optimizer
+
+Changes prop_static minimum render distance if none is set
+
+`Usage: gmod_bsp_optimizer "c:\mymap\map.vmf"`

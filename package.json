@@ -1,5 +1,5 @@
 {
-  "name": "reslister",
+  "name": "gmod_bsp_optimizer",
   "version": "0.1.0",
   "description": "Resource Lister for Valve Map Format",
   "peerDependencies": {
@@ -8,10 +8,9 @@
   "bundledDependencies": [
     "helpers"
   ],
-  "files": [],
   "repository": {
     "type": "git",
-    "url": "https://github.com/Metastruct/reslister.git"
+    "url": "https://github.com/Metastruct/gmod_bsp_optimizer.git"
   },
   "keywords": [
     "vmf",
@@ -26,9 +25,9 @@
   },
   "author": "Python1320",
   "bugs": {
-    "url": "https://github.com/Metastruct/reslister/issues"
+    "url": "https://github.com/Metastruct/gmod_bsp_optimizer/issues"
   },
-  "homepage": "https://github.com/Metastruct/reslister#readme",
+  "homepage": "https://github.com/Metastruct/gmod_bsp_optimizer#readme",
   "dependencies": {
     "helpers": "git+https://github.com/Metastruct/glua_utilities.git#helpers"
   }
